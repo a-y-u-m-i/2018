@@ -1,0 +1,28 @@
+-
+  id: 0
+  name: "Ayumi Koso"
+  team: true
+  affiliation: NIHU
+  social:
+    - {name: "twitter", prefix: "https://twitter.com/", username: "iyoumek"}
+-
+  id: 1
+  name: "Amanda Alvarez"
+  team: true
+  affiliation: RIKEN
+  social:
+    - {name: "twitter", prefix: "https://twitter.com/", username: "neuroamanda"}
+-
+  id: 2
+  name: "Elizabeth Tasker"
+  team: true
+  affiliation: JAXA
+  social:
+    - {name: "twitter", prefix: "https://twitter.com/", username: "girlandkat"}
+-
+  id: 3
+  name: "Motoko Kakubayashi"
+  team: true
+  affiliation: University of Tokyo
+  social:
+    - {name: "twitter", prefix: "https://twitter.com/", username: "motokokaku"}

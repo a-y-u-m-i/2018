@@ -1,0 +1,43 @@
+-
+  id: 4
+  name: "Takao"
+  surname: "Someya"
+  company: "University of Tokyo"
+  title: "Researcher"
+  bio: "..."
+  thumbnailUrl: Someya.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 5
+  name: "Juliana"
+  surname: "Chan"
+  company: "Asian Scientist Magazine"
+  title: "Editor-in-Chief"
+  bio: "... "
+  thumbnailUrl: JulianaChan.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mherych"}
+-
+  id: 6
+  name: "Mary"
+  surname: "Voytek"
+  company: "NASA"
+  title: "Director of NASA Astrobiology"
+  bio: "..."
+  thumbnailUrl: MaryVoytek.jpeg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+-
